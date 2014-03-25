@@ -1,0 +1,15 @@
+{
+    "name": "grunt-castle-example",
+    "author": "Jason Strimpel",
+    "version": "0.0.1",
+    "description": "an example that illustrates how to unit test an AMD code base using grunt-castle",
+    "private": true,
+    "dependencies":{
+        "grunt": "0.4.x",
+        "grunt-castle": "git+ssh://git@github.com:walmartlabs/grunt-castle.git"
+    },
+    "maintainers": [{
+        "name": "Jason Strimpel",
+        "email": "jstrimpel@gmail.com"
+    }]
+}
