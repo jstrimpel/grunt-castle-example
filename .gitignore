@@ -1,4 +1,4 @@
 node_modules
-test/spec/html
+test/specs/html
 reports
 lib-cov

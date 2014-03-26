@@ -1,6 +1,6 @@
 # Grunt-castle Example
 This is a simple example of how to use [grunt-castle](https://github.com/walmartlabs/grunt-castle)
-to unit test an client-server AMD code base.
+to unit test a client-server AMD code base.
 
 ## Overview
 In this example the fictitious application resides in the `lib` directory. The `lib/modules`

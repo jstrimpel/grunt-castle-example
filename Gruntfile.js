@@ -46,7 +46,8 @@ module.exports = function (grunt) {
                         },
                         // configure code coverage
                         coverage: {
-                            dest: 'lib-cov'
+                            dest: 'lib-cov',
+                            exclude: 'modules'
                         }
                     }
                 }
