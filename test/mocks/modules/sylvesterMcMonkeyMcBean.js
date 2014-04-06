@@ -8,14 +8,14 @@ define(function () {
     // stub out functions for mock; just
     return {
 
-        on: function (sneech, money) {
-            sneech.star = true;
-            return sneech;
+        on: function (sneetch, money) {
+            sneetch.star = true;
+            return sneetch;
         },
 
-        off: function (sneech, money) {
-            sneech.star = false;
-            return sneech;
+        off: function (sneetch, money) {
+            sneetch.star = false;
+            return sneetch;
         }
 
     };
