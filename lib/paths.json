@@ -1,5 +1,5 @@
 {
-    "sneech": "sneetch",
+    "sneetch": "sneetch",
     "on": "modules/starOnMachine",
     "off": "modules/starOffMachine",
     "fixitup": "modules/sylvesterMcMonkeyMcBean"
