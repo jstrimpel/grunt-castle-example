@@ -6,7 +6,7 @@
     "private": true,
     "dependencies":{
         "grunt": "0.4.x",
-        "grunt-castle": "git+ssh://git@github.com:walmartlabs/grunt-castle.git"
+        "grunt-castle": "3.3.x"
     },
     "maintainers": [{
         "name": "Jason Strimpel",
