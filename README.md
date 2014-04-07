@@ -42,22 +42,3 @@ grunt castle
 ```
 
 You are done.
-
-## Known Issue
-
-If you see the following error then you will need to edit the `package.json` for a Squire.js.
-
-```shell
-Running "castle:application" (castle) task
-Warning: Cannot find module 'squirejs' Use --force to continue.
-
-Aborted due to warnings.
-```
-
-Locate the Squire.js node_modules directory and the following to the `package.json`.
-
-```javascript
-"main": "./src/Squire"
-```
-
-This issue has been noted in grunt-castle, https://github.com/walmartlabs/grunt-castle/issues/16, and will be fixed.
