@@ -6,7 +6,7 @@
     "private": true,
     "dependencies":{
         "grunt": "0.4.x",
-        "grunt-castle": "0.3.x"
+        "grunt-castle": "0.4.x"
     },
     "maintainers": [{
         "name": "Jason Strimpel",
