@@ -13,8 +13,14 @@ module.exports = function (grunt) {
                 options: {
                     // define mocks directory and paths
                     mocks: {
-                        baseUrl: 'test/mocks',
-                        paths: paths
+                        server: {
+                            baseUrl: 'test/mocks',
+                            paths: paths
+                        },
+                        client: {
+                            baseUrl: 'test/mocks',
+                            paths: paths
+                        }
                     },
                     // define specs and out dir for html specs
                     specs: {
