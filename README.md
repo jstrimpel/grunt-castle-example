@@ -2,7 +2,7 @@
 This is a simple example of how to use [grunt-castle](https://github.com/walmartlabs/grunt-castle)
 to unit test a client-server AMD code base.
 
-> In case you are wondering what the names in this example are referencing [The Sneetches](http://en.wikipedia.org/wiki/The_Sneetches_and_Other_Stories#.22The_Sneetches.22)
+> In case you are wondering what the names in this example are referencing, "[The Sneetches](http://en.wikipedia.org/wiki/The_Sneetches_and_Other_Stories#.22The_Sneetches.22)".
 
 ## Overview
 In this example the fictitious application resides in the `lib` directory. The `lib/modules`
